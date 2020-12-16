@@ -1,0 +1,8 @@
+.video2 {
+  align-items: center;
+  align-content: center;
+  display: flex;
+  justify-content: center;
+  margin: 100px auto 0;
+  /* width: 90%; */
+}
